@@ -1,6 +1,6 @@
 ### Eric Ly
 
-Eng #2 at [Human Delta](https://humandelta.ai) — AI adoption engine for enterprises, backed by Susa Ventures, Afore Capital, Kleiner Perkins, and angels from top research labs & financial institutions.
+Eng #2 at [Human Delta](https://humandelta.ai) — AI adoption engine for enterprises, backed by Susa, Afore, and Kleiner Perkins.
 
 Previously: Agents Platform @ [Letta](https://letta.com), AI agents @ [Zams](https://zams.com), AI voice research @ AT&T.
 
@@ -8,13 +8,14 @@ Also: Human data @ [Mercor](https://mercor.com), ML research @ ASSURE-US, teachi
 
 **Recent:**
 - [lingbot-world-l4](https://github.com/lyeric2022/lingbot-world-l4) — Running 35GB video diffusion on 24GB GPUs
-- [Tradeflows.us](https://tradeflows.us) — 3D globe visualizer for USA trade flows + agentic AI conversations (Trump AI & Fact Checker) on tariffs & geopolitics
+- [Tradeflows.us](https://tradeflows.us) — USA trade flows visualizer + agentic AI chats (Trump & Fact Checker) on tariffs
+
 
 **Stack:**
 - Languages: TypeScript, Python, C++, React Native
 - Tech: Next.js, React, Node.js, PostgreSQL, Prisma, Kubernetes, Terraform, Docker, GCP/AWS, FastAPI, Supabase, Redis
 - AI/ML: PyTorch, Hugging Face, Langchain, Pinecone, Whisper, MCP, RAG
-- Favorites: Cursor, Vercel, Letta, PostHog, Linear, Bun, Drizzle, Figma
+- Favorites: PostHog, Cursor, Vercel, Letta, Linear, Bun, Drizzle, Figma
 
 **Background:**
 - CS & Economics @ CSUF (May 2026) • ASI Board • Directed FullyHacks 2x • Led ACM Node Buds
