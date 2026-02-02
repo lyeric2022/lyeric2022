@@ -2,7 +2,7 @@
 
 Eng #2 at [Human Delta](https://humandelta.ai) — AI adoption engine for enterprises, backed by Susa, Afore, and Kleiner Perkins.
 
-Previously: Agents Platform @ [Letta](https://letta.com), AI agents @ [Zams](https://zams.com), AI voice research @ [AT&T] (https://github.com/att).
+Previously: Agents Platform @ [Letta](https://letta.com), AI agents @ [Zams](https://zams.com), AI voice research @ [AT&T](https://github.com/att).
 
 Also: Human data @ [Mercor](https://mercor.com), ML research @ ASSURE-US, teaching @ [Dreams for Schools](https://dreamsforschools.org).
 
