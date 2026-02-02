@@ -2,11 +2,13 @@
 
 Eng #2 at [Human Delta](https://humandelta.ai) — AI adoption engine for enterprises, backed by Susa Ventures, Afore Capital, Kleiner Perkins, and angels from top research labs & financial institutions.
 
-Previously: Agents Platform @ [Letta](https://letta.com) (90+ merged PRs), AI agents @ [Zams](https://zams.com), AI voice research @ AT&T, human data @ Mercor, teaching @ Dreams for Schools.
+Previously: Agents Platform @ [Letta](https://letta.com), AI agents @ [Zams](https://zams.com), AI voice research @ AT&T.
+
+Also: Human data @ [Mercor](https://mercor.com), ML research @ ASSURE-US, teaching @ [Dreams for Schools](https://dreamsforschools.org).
 
 **Recent:**
-- [Tradeflows.us](https://tradeflows.us) — 3D globe visualizer for USA trade flows + agentic AI conversations (Trump AI & Fact Checker) on tariffs & geopolitics
 - [lingbot-world-l4](https://github.com/lyeric2022/lingbot-world-l4) — Running 35GB video diffusion on 24GB GPUs
+- [Tradeflows.us](https://tradeflows.us) — 3D globe visualizer for USA trade flows + agentic AI conversations (Trump AI & Fact Checker) on tariffs & geopolitics
 
 **Stack:**
 - Languages: TypeScript, Python, C++, React Native
