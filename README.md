@@ -1,4 +1,4 @@
-### Hi I'm Eric Ly
+### I'm Eric Ly
 
 Eng #2 at [Human Delta](https://humandelta.ai) — AI adoption engine for enterprises, backed by Susa, Afore, and Kleiner Perkins.
 
