@@ -1,6 +1,6 @@
 ### I'm Eric Ly
 
-Eng #2 at [Human Delta](https://humandelta.ai) — AI adoption engine for enterprises, backed by Susa, Afore, and Kleiner Perkins.
+Eng #2 at [Human Delta](https://humandelta.ai) — AI adoption engine for enterprises.
 
 Previously: Agents Platform @ [Letta](https://letta.com), AI agents @ [Zams](https://zams.com), AI voice research @ [AT&T](https://github.com/att).
 
